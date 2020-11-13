@@ -1,5 +1,5 @@
-# Proyecto-Calculadora
-En el siguiente proyeccto se exploran los diferentes widgets que ofrece la libreria de tkinter atravez de la implementacion de una calculadora basica experimental
+# Proyecto-Calculado
+En el siguiente proyeccto se exploran los diferentes widgets que ofrece la libreria de tkinter a traves de la implementacion de una calculadora basica experimental
 
 ![alt tag](https://github.com/eduran777/Proyecto-Calculadora/blob/main/Pantallazos%20Calculadora/Ventana%20emergente.PNG?raw=true) 
 ![alt tag](https://github.com/eduran777/Proyecto-Calculadora/blob/main/Pantallazos%20Calculadora/Ventana%20Inicial.PNG?raw=true) 
