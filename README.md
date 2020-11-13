@@ -1,7 +1,12 @@
 # Proyecto-Calculadora
 En el siguiente proyeccto se exploran los diferentes widgets que ofrece la libreria de tkinter atravez de la implementacion de una calculadora basica experimental
 
-![Proyecto-Calculadora](/Pantallazos Calculadora/Cambio de color a azul.PNG)
-Format:![Alt Text](url)
+![alt tag](https://github.com/eduran777/Proyecto-Calculadora/blob/main/Pantallazos%20Calculadora/Ventana%20emergente.PNG?raw=true) 
+![alt tag](https://github.com/eduran777/Proyecto-Calculadora/blob/main/Pantallazos%20Calculadora/Ventana%20Inicial.PNG?raw=true) 
+![alt tag](https://github.com/eduran777/Proyecto-Calculadora/blob/main/Pantallazos%20Calculadora/Cambio%20de%20color%20a%20azul.PNG?raw=true) 
+![alt tag](https://github.com/eduran777/Proyecto-Calculadora/blob/main/Pantallazos%20Calculadora/Cambio%20de%20color%20a%20verde.PNG?raw=true) 
+![alt tag](https://github.com/eduran777/Proyecto-Calculadora/blob/main/Pantallazos%20Calculadora/Explosion.PNG?raw=true) 
+![alt tag](https://github.com/eduran777/Proyecto-Calculadora/blob/main/Pantallazos%20Calculadora/Restauracion.PNG?raw=true) 
+
 
 Autor: ESTEBAN DURAN JIMENEZ 
