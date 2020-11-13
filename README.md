@@ -1,5 +1,6 @@
 # Proyecto-Calculado
 En el siguiente proyeccto se exploran los diferentes widgets que ofrece la libreria de tkinter a traves de la implementacion de una calculadora basica experimental
+
 Autor: ESTEBAN DURAN JIMENEZ 
 
 
